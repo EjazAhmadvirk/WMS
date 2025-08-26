@@ -27,7 +27,7 @@ public:
              << ", Category: " << category << ", Quantity: " << quantity
              << ", Price: $" << price << endl;
         // system("PAUSE");
-        // system("CLS");
+        // system("CLS"); use this for clear console screen. this is built in function
     }
 };
 
