@@ -31,7 +31,7 @@ public:
     }
 };
 
-//  Warehouse Class 
+//  Warehouse Class for add create wharehouse
 class Warehouse {
 public:
     int warehouseID;
