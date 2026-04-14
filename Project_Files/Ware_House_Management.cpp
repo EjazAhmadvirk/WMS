@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>
+#include <vector>        //for  vactor
 #include <fstream>      // For file handling
 #include <unistd.h> 
 using namespace std;
