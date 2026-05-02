@@ -15,11 +15,11 @@ public:
     double price;
 
     Item(int id = 0, string n = "", string cat = "", int qty = 0, double p = 0.0) {
-        itemID = id;
-        name = n;
-        category = cat;
-        quantity = qty;
-        price = p;
+        itemID = id;   // item ID should be unique 
+        name = n;      // item name 
+        category = cat;  // item category
+        quantity = qty;  // item quantity
+        price = p;       // item prices 
     }
 
     void displayItem() {
