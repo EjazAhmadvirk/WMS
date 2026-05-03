@@ -377,7 +377,7 @@ public:
 int main() {
     WMS wms;
     int choice;
-
+        // This screen will show  on home screen. we use \t fro tab space and \n for new line we can also use endl in last instead of \n
     do {
         cout << "\n\n";
         cout << "\t\t\t\t\t\t\t////////////////////////////////////////////////////////////\n";
